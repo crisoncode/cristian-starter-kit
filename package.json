@@ -23,5 +23,8 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "typescript-eslint": "^8.27.0"
+  }
 }
